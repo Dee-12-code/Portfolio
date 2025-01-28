@@ -1,0 +1,22 @@
+/* src/index.css */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #1e1e1e, #121212); /* Sleek gradient */
+  color: #e0e0e0;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, p, a {
+  color: #e0e0e0;
+}
+
+a {
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #00c6ff; /* Bright hover color */
+}
